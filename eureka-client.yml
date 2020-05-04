@@ -2,3 +2,8 @@
 spring:
   profiles: subject
 words: I,You,He,She,It
+
+---
+spring:
+  profiles: adjective
+words: reasonable,leaky,suspicious,ordinary,unlikely
